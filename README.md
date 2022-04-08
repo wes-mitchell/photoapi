@@ -1,1 +1,1 @@
-# photoapi
+# API for Photo Fun Project
