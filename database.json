@@ -9,7 +9,8 @@
       "title": "Chicago Skyline",
       "description": "View of Chicago Skyline via Guaranteed Rate Field on the south side.",
       "url": "images/b-w/bw1.jpg",
-      "category": "landscape"
+      "category": "landscape",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       "title": "Megajoos Reunion",
       "description": "Drums setup for rehearsal in 2018 for Megajoos Reunion show at Keoghfest in.",
       "url": "images/b-w/bw2.jpg",
-      "category": "music"
+      "category": "music",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       "title": "Deep Thoughts",
       "description": "Bonzo deep in thought or hunting sky raisins.",
       "url": "images/b-w/bw3.jpg",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 4,
@@ -42,7 +45,8 @@
       "title": "Murphy & His Toy",
       "description": "Please play with me.",
       "url": "images/b-w/bw4.jpg",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 5,
@@ -53,7 +57,8 @@
       "title": "Bonzo on the Couch",
       "description": "Bonzo lounging around as usual.",
       "url": "images/b-w/bw5.jpg",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 6,
@@ -64,7 +69,8 @@
       "title": "It's Miller Time",
       "description": "Enjoying a new icy cold Miller Lite on the back porch.",
       "url": "images/b-w/bw6.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 7,
@@ -75,7 +81,8 @@
       "title": "Welcome Home",
       "description": "A welcome home bottle of Prosecco shared with my signifcant other purchased in Lyon, France on tour in 2018.",
       "url": "images/b-w/bw7.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 8,
@@ -86,7 +93,8 @@
       "title": "Puppy Eyes",
       "description": "Bonzo really makes it hard to leave the house sometimes.",
       "url": "images/b-w/bw8.jpg",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 9,
@@ -97,7 +105,8 @@
       "title": "Lil Stump",
       "description": "A nice looking bench to sit on in Bicentennial Capitol Mall State Park in Nashville, TN",
       "url": "images/b-w/bw9.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 10,
@@ -108,7 +117,8 @@
       "title": "Farmer's Market",
       "description": "A front side view of the Nashville Farmer's Market building.",
       "url": "images/b-w/bw10.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 11,
@@ -119,7 +129,8 @@
       "title": "Welcome",
       "description": "Fun sign outside of Gardens of Babylon in the Farmer's Market in Nashville, TN.",
       "url": "images/b-w/bw11.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 12,
@@ -130,7 +141,8 @@
       "title": "I See You",
       "description": "Someone's always watching.",
       "url": "images/b-w/bw12.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 13,
@@ -141,7 +153,8 @@
       "title": "Arthur",
       "description": "Sup, my name is Arthur. Wanna play?",
       "url": "images/b-w/bw13.jpg",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 14,
@@ -152,7 +165,8 @@
       "title": "Demo Day",
       "description": "Tracking demos with Alicia in 2018 using one of my favorite Risen Drums kit.",
       "url": "images/b-w/bw14.jpg",
-      "category": "music"
+      "category": "music",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 15,
@@ -161,9 +175,10 @@
       "location": "Atlanta, GA",
       "year": "2021",
       "title": "Street Graffiti",
-      "description": "Street graffiti found on the side of Drunken Unicorn in Atlanta, GA during Bully's 3 day residency in 2022.",
+      "description": "Street graffiti found on the side of Drunken Unicorn in Atlanta, GA during Bully's 3 day residency in 2021.",
       "url": "images/b-w/bw15.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 16,
@@ -174,7 +189,8 @@
       "title": "Milkman",
       "description": "Bret chillin before a show outside the Drunken Unicorn in Atlanta, GA.",
       "url": "images/b-w/bw16.jpg",
-      "category": "music"
+      "category": "music",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 17,
@@ -185,7 +201,8 @@
       "title": "Lemp Ave Spookies",
       "description": "Wandering Lemp Ave in 2021 before playing Off Broadway in St. Louis.",
       "url": "images/b-w/bw17.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 18,
@@ -196,7 +213,8 @@
       "title": "Lemp Ave Spookies #2",
       "description": "Another shot taken on Lemp Ave in St. Louis, MO.",
       "url": "images/b-w/bw18.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 19,
@@ -207,7 +225,8 @@
       "title": "Lemp Brewery",
       "description": "Lemp Brewery (Mansion) as seen on Ghost Hunters.",
       "url": "images/b-w/bw19.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 20,
@@ -218,7 +237,8 @@
       "title": "White Sox vs. Cubbies",
       "description": "A big fight broke out in center field bleachers that day. I'll never forget it.",
       "url": "images/b-w/bw20.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 21,
@@ -229,7 +249,8 @@
       "title": "Fall",
       "description": "Healthy batch of pumpkins at the Nashville Farmer's Market.",
       "url": "images/b-w/bw21.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 22,
@@ -240,7 +261,8 @@
       "title": "Niagara Falls",
       "description": "Niagara Falls shot on expired film from the Canadian side.",
       "url": "images/b-w/bw22.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 23,
@@ -251,7 +273,8 @@
       "title": "St. Louis Cemetary #2",
       "description": "Shot on expired film in New Orleans, LA mid pandemic in 2020.",
       "url": "images/b-w/bw23.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 24,
@@ -262,7 +285,8 @@
       "title": "Drums wrapped at Pachyderm Studios",
       "description": "Drums wrapped after a week of tracking at Pachyderm Studio's for Bully's SUGAREGG record. ",
       "url": "images/b-w/bw24.jpg",
-      "category": "music"
+      "category": "music",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 25,
@@ -273,7 +297,8 @@
       "title": "Mezzi",
       "description": "Mezzi making sure everything is sounding good at Pachyderm Studios during Bully's SUGAREGG tracking session.",
       "url": "images/b-w/bw25.jpg",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 26,
@@ -284,7 +309,8 @@
       "title": "Paddlewheeler Ferry",
       "description": "Docked paddlewheeler in New Orleans, LA.",
       "url": "images/b-w/bw26.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 27,
@@ -295,7 +321,8 @@
       "title": "St. Louis Cemetary #2",
       "description": "St. Louis Cemetary #2, not the one with Nicolas Cage's tombstone. :)",
       "url": "images/color/color1.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 28,
@@ -306,7 +333,8 @@
       "title": "Blue Nile",
       "description": "Blue Nile on Frenchman St. in New Orleans.",
       "url": "images/color/color3.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 29,
@@ -317,7 +345,8 @@
       "title": "Paddlewheeler",
       "description": "A color shot of the New Orleans paddlewheeler. ",
       "url": "images/color/color2.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 30,
@@ -328,7 +357,8 @@
       "title": "Satchmo",
       "description": "Some street graffiti displaying Louis Armstrong on Frenchman St.",
       "url": "images/color/color4.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 31,
@@ -339,7 +369,8 @@
       "title": "Greenroom Jukebox",
       "description": "A Jukebox in the greenroom of Beachland Tavern in Cleveland, OH shot on expired film.",
       "url": "images/color/color5.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 32,
@@ -350,7 +381,8 @@
       "title": "Untitled",
       "description": "Messing with shapes on expired film in Buffalo, NY.",
       "url": "images/color/color6.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 33,
@@ -361,7 +393,8 @@
       "title": "Buffalo, NY",
       "description": "Buffalo, NY marquee on expired film.",
       "url": "images/color/color7.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 34,
@@ -372,7 +405,8 @@
       "title": "Clay Vibes",
       "description": "Clay having a Miller Lite enjoying some downtime before Bully performs at the Shitty Barn in Spring Green, WI.",
       "url": "images/color/color8.jpg",
-      "category": "music"
+      "category": "music",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 35,
@@ -383,7 +417,8 @@
       "title": "Bonzo",
       "description": "One of my favorite shots of Bonzo captured in Atlanta, GA trying to emphasize bokeh.",
       "url": "images/color/color9.jpg",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 36,
@@ -394,7 +429,8 @@
       "title": "Good Luck",
       "description": "Sippin some Stumptown cold brew and enjoying Atlanta, GA with my significant other at the time.",
       "url": "images/color/color10.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 37,
@@ -405,7 +441,8 @@
       "title": "Shelby Bottoms",
       "description": "Shelby Bottoms graffiti in Nashville, TN.",
       "url": "images/color/color11.jpg",
-      "category": "random"
+      "category": "random",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 38,
@@ -416,7 +453,8 @@
       "title": "3rd Baseline",
       "description": "Attending my first Braves game at Truist Park in Atlanta, GA. Picked 3rd base to see one of my favorite players, Nolan Arenado.",
       "url": "images/color/color12.jpg",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 39,
@@ -427,7 +465,8 @@
       "title": "Alicia Bognanno",
       "description": "Alicia before our set at Paramore's Art & Friends Fest at Nashville Municipal Auditorium in 2018.",
       "url": "images/color/color13.jpg",
-      "category": "music"
+      "category": "music",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 40,
@@ -438,7 +477,8 @@
       "title": "SoDak",
       "description": "Ya, I held onto my license plates from home. Then I took pictures of them.",
       "url": "images/color/color14.JPG",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 41,
@@ -449,7 +489,8 @@
       "title": "Gabby's Burger's & Fries",
       "description": "A hidden gem in Nashville, TN.",
       "url": "images/color/color15.JPG",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 42,
@@ -460,7 +501,8 @@
       "title": "Park Hangs",
       "description": "Murphy taking a breather on a hot day at the park.",
       "url": "images/color/color16.JPG",
-      "category": "pets"
+      "category": "pets",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 43,
@@ -471,7 +513,8 @@
       "title": "Beach Hangs",
       "description": "Fun shot of a kite I grabbed at the beach in Charleston, SC on vacay.",
       "url": "images/color/color17.JPG",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 44,
@@ -482,7 +525,8 @@
       "title": "Niagara Falls",
       "description": "Taken from the Canadian side of Niagara Falls.",
       "url": "images/color/color18.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 45,
@@ -493,7 +537,8 @@
       "title": ":)",
       "description": "Trying to be creative with my morning routine and got a smile back.",
       "url": "images/color/color19.JPG",
-      "category": "fun"
+      "category": "fun",
+      "raw": "https://www.wmdrums.com/"
     },
     {
       "id": 46,
@@ -504,7 +549,8 @@
       "title": "Garage Monster",
       "description": "Fun graffiti found in Atlanta, GA across from Revolution Doughnuts.",
       "url": "images/color/color20.jpg",
-      "category": "travel"
+      "category": "travel",
+      "raw": "https://www.wmdrums.com/"
     }
   ]
 }
